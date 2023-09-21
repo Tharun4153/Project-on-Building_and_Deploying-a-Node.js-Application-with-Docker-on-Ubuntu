@@ -17,11 +17,11 @@ Command-
  
 Step 2 : Clone the code from Github
 The code for the project is cloned from GitHub using the command 'git clone <repository_url>'. In this case, the repository URL is
-https://github.com/LondheShubham153/node-todo-cicd.git
+https://github.com/Tharun4153/Project-on-Building_and_Deploying-a-Node.js-Application-with-Docker-on-Ubuntu
  
  ![image](https://user-images.githubusercontent.com/63364609/233578384-4fa7f2b1-4d12-4b5d-af3c-7f82942279a2.png)
 
-(Here I’m cloning the code from Shubham londhe’s account and even you can forks that Repositorie to your github account).
+(Here I’m cloning the code from Tharun4153 account and even you can forks that Repositorie to your github account).
 
 Step 3: Check the files and understand the requirements
 Check the files and understand the requirements Once the code has been cloned, we navigate to the directory using the command 'cd react_django_demo1_app' and use the 'ls' command to list the files in the directory. This helps us to understand the requirements of the project.
